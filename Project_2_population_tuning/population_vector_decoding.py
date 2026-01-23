@@ -2,7 +2,6 @@
 """
 Created on Mon Jan 19 15:41:28 2026
 
-@author: Pablo
 """
 
 import numpy as np
@@ -39,4 +38,5 @@ angle_deg = np.degrees(angle_rad)
 angle_deg = angle_deg % 360
 
 print(round(angle_deg))
+
 
