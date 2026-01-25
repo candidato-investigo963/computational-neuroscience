@@ -44,10 +44,6 @@ The tuning curves are plotted together to allow direct comparison between neuron
 
 To evaluate whether neural firing follows Poisson-like statistics, the variance-to-mean ratio (Fano Factor) is computed for each stimulus condition:
 
-\[
-F = \frac{\text{Variance}}{\text{Mean}}
-\]
-
 For a Poisson process, this ratio is expected to be close to 1. The script computes:
 
 - The average Fano Factor across stimuli  
