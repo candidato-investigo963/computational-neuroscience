@@ -1,9 +1,7 @@
 # Project 1 – Spike-Triggered Average (STA)
 
 ## Description
-This project implements a Spike-Triggered Average (STA) analysis to study
-neural encoding. The goal is to estimate the linear filter of a neuron by
-averaging the stimulus preceding each spike.
+This project implements a Spike-Triggered Average (STA) analysis to investigate neural encoding mechanisms. The STA is a classical technique in computational neuroscience used to estimate the linear temporal filter of a neuron by averaging the stimulus segments that precede each spike.
 
 The dataset contains:
 - A stimulus time series (`stim`)
