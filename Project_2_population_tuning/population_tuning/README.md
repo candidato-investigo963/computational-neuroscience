@@ -57,8 +57,7 @@ This analysis provides insight into the reliability and variability of each neur
 
 ### Tuning Curves
 
-<!-- PASTE YOUR FIGURE HERE -->
-![Tuning Curves](figures/tuning_curves.png)
+![Tuning Curves](tuning_curves.png)
 
 The tuning curves show that each neuron is selectively responsive to a different range of stimulus directions, indicating distributed sensory encoding across the population.
 
