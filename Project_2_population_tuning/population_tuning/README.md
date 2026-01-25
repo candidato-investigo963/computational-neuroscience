@@ -88,4 +88,3 @@ The variance-to-mean ratios indicate different statistical regimes across neuron
   Python script for loading the data, plotting tuning curves, and validating Poisson firing statistics.
 
 
-These results suggest that not all neurons in the population follow the same statistical firing model, which may reflect functional differences in sensory processing or noise sensitivity.
